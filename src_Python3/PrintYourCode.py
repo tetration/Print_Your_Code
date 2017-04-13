@@ -75,6 +75,8 @@ def VimPrinter(name):
 	seq=("vim ",name," -c ",'"hardcopy > ',filename,'.pdf | q"')
 	os.system(''.join(seq))
 	print("Conversion to PDF completed!")
+	seq=("PDF File can be found in: ",os.getcwd())
+	print(''.join(seq))
 	exit()
 	#vim example.py -c "hardcopy > example.pdf | q"
 	#Command to print directly without the help of this script
