@@ -15,14 +15,14 @@ And the best of everything is that all this program requires is a Linux machine 
 
 # FAQ
 
-How do I know if my Linux Distribution comes with Python?
+How do I know if my Linux Distribution comes with Python 2 or 3?
 
 Usually most popular Linux distributions such as Ubuntu, Linux Mint and ArchLinux comes with python out of the box!
 To make sure your linux distributions has python just go to your terminal and type python.
 
 How do I find out which version of Python my Linux distribution is running?
 
-To find out which version your Python distribution uses just type python.
+To find out which version your Python distribution uses go to the terminal and then just type python.
 As soon as you type it it will show you below which version of Python your OS is currently running.
 
 When I try to compile your program by typing "python PrintYourCode.py" I´m getting an error message. Your Code is broken!
