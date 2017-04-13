@@ -1,0 +1,3 @@
+Warning This version  will only work if  your computer is running Python 3 Only! If your computer has Python 2 then use the one in the src_Python2 Folder!
+
+To find out which version your linux computer is using type in the terminal: python
